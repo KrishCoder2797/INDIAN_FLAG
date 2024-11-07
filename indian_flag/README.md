@@ -1,16 +1,25 @@
-# indian_flag
 
-A new Flutter project.
 
-## Getting Started
+#  Indian Flag App
 
-This project is a starting point for a Flutter application.
+A simple and beautiful app that displays the Indian national flag, built with Flutter! This app showcases the Tricolor and provides a patriotic experience with an elegant design and additional features such as flag details, historical information, and customizable display settings.
 
-A few resources to get you started if this is your first Flutter project:
+## 🌟 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Indian Flag Display**: Shows the Indian national flag in high quality with accurate colors and proportions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Full-Screen Mode**: View the flag in full-screen mode for an immersive experience.
+
+- **Animated Flag**: Option to add animations for a waving effect.
+
+
+## 🚀 Technologies Used
+
+- **Flutter**: Cross-platform UI toolkit for building natively compiled applications.
+
+- **Dart**: The programming language used to write Flutter applications.
+
+- **Animation Package**: For adding smooth animations to the flag (if animations are included).
+
+- **Provider** (or other state management tool): For managing app state effectively.
+
